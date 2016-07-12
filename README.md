@@ -1,4 +1,4 @@
-# Zero padding for integer binary presentations
+# Zero padding for binary format
 
 I often find myself writing zero padding when debugging binary data because comparing alligned binary strings in terminal is just easier than looking some messy binanry data.
 
